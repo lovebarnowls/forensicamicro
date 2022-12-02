@@ -30,7 +30,7 @@ sudo echo 'everythingdivided' > /home/quadraticformula/Desktop/howtosolve/q\ 7.t
 
 
 #Q8 Caesar Cipher
-sudo echo 'bytwoa' | tr a-z c-za-b > 
+sudo echo 'bytwoa' | tr a-z f-za-e > 
 /home/quadraticformula/Desktop/howtosolve/q\ 8.txt
 
 
