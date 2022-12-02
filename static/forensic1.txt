@@ -1,5 +1,8 @@
-Provide the MD5 hash to the text found in a file in the following folder:
-/home/pythagoras/Desktop/triangle/sin/
+All question files are found in the following folder, with text files containing names like q1, q2 etc.
+/home/quadraticformula/Desktop/howtosolve
+
+Provide the MD5 hash for the text in q1.txt
+/home/quadraticformula/Desktop/howtosolve/q1.txt
 
 ANSWER: <Type answer here>
 
