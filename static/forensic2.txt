@@ -1,5 +1,7 @@
-Provide the SHA256 hash to the text located in the file of the following folder:
-/home/pythagoras/Desktop/triangle/sin/cos/
+All question files are found in the following folder, with text files containing names like q1, q2 etc.
+/home/quadraticformula/Desktop/howtosolve
+
+Provide the SHA256 hash to the text located in the q2 file in the folder listed above.
 
 
 ANSWER: <Type answer here>
