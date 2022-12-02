@@ -1,36 +1,37 @@
 #!/bin/bash
 
-sudo useradd pythagoras
+sudo useradd quadraticformula
 
-sudo mkdir -p /home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/cotan/cosinerule
+sudo mkdir -p /home/quadraticformula/Desktop/howtosolve
 
 #Q1 MD5hash
-sudo echo 'hypotheneuse' > /home/pythagoras/Desktop/triangle/sin/q1.txt
+sudo echo 'xequals' > /home/quadraticformula/Desktop/howtosolve/q1
 
 #Q2 Sha256
-sudo echo 'squared' > /home/pythagoras/Desktop/triangle/sin/cos/q2.txt
+sudo echo 'minusb' > /home/quadraticformula/Desktop/howtosolve/q2
 
 
 #Q3 base64decode
-sudo echo 'ZXF1YWxz' > /home/pythagoras/Desktop/triangle/sin/cos/tan/q3.txt
+sudo echo 'plusminus' > /home/quadraticformula/Desktop/howtosolve/.q3
 
 
 #MDQ4 base64decode
-sudo echo 'c3Vtb2Y=' > /home/pythagoras/Desktop/triangle/sin/cos/tan/sec/q4.txt
+sudo echo 'squarerootof' > /home/quadraticformula/Desktop/howtosolve/.q4
 
 #Q5 base64encode
-sudo echo 'squareof' > /home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/q5.txt
+sudo echo 'bsquared' > /home/quadraticformula/Desktop/howtosolve/./-q5.txt
 
 
 #MQ6 morse
-sudo echo '000 0 1111 1 101 0 100 000 111 11 011 1 111' > /home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/cotan/q6.txt
+sudo echo 'minus4ac' > /home/quadraticformula/Desktop/howtosolve/./-q6.txt
 
 #Q7 binary
-sudo echo '0110111101101110011011000111100101100110011011110111001001110100011100100110100101100001011011100110011101101100011001010111001101110111011010010111010001101000' > /home/pythagoras/Desktop/triangle/q7.txt
+sudo echo 'everythingdivided' > /home/quadraticformula/Desktop/howtosolve/q\ 7.txt
 
 
 #Q8 Caesar Cipher
-sudo echo 'arightangle' | tr a-z c-za-b > 
-/home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/cotan/cosinerule/q8.txt
+sudo echo 'bytwoa' | tr a-z c-za-b > 
+/home/quadraticformula/Desktop/howtosolve/q\ 8.txt
+
 
 
