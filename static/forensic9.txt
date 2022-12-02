@@ -1,25 +1,25 @@
 Answers
 
 Q1
-3e63c0abf6af0ae1ca3e3b24872738e1
+abe84d645b953ca3c03f3ea349821f067713f9bb
 
 Q2
-c38762e6e9f36b8a956affbabed79eed9ee27ab93cd1922e7d832c9442419347
+0be9ae2a9ce47fd4be13adf7e14067a6317760106760d77cb238afc38941b880
 
 Q3
-equals
+plusminus
 
 Q4
-sumof
+squarerootof
 
 Q5
-c3F1YXJlb2Y=
+YnNxdWFyZWQK
 
 Q6
-othertwosides
+minus4ac
 
 Q7
-onlyfortriangleswith
+everythingdivided
 
 Q8
-youmadeittotheend
+bytwoa
