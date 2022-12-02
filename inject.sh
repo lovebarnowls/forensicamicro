@@ -12,21 +12,22 @@ sudo echo 'minusb' > /home/quadraticformula/Desktop/howtosolve/q2
 
 
 #Q3 base64decode
-sudo echo 'plusminus' > /home/quadraticformula/Desktop/howtosolve/.q3
+sudo echo 'plusminus' | base64 > /home/quadraticformula/Desktop/howtosolve/q3
 
 
 #MDQ4 base64decode
-sudo echo 'squarerootof' > /home/quadraticformula/Desktop/howtosolve/.q4
+sudo echo 'squarerootof' |base64 > /home/quadraticformula/Desktop/howtosolve/.q4
 
 #Q5 base64encode
 sudo echo 'bsquared' > /home/quadraticformula/Desktop/howtosolve/./-q5.txt
 
 
 #MQ6 morse
-sudo echo 'minus4ac' > /home/quadraticformula/Desktop/howtosolve/./-q6.txt
+sudo echo 'bbcaacbacaabcaaacaaaabcabcbaba' > /home/quadraticformula/Desktop/howtosolve/q6.txt
+#minis4ac
 
-#Q7 binary
-sudo echo 'everythingdivided' > /home/quadraticformula/Desktop/howtosolve/q\ 7.txt
+#Q7 sha1sum
+sudo echo 'everythingdivided' > /home/quadraticformula/Desktop/howtosolve/q7.txt
 
 
 #Q8 Caesar Cipher
