@@ -1,7 +1,7 @@
-Decode the text found in the following location (base64):
+All question files are found in the following folder, with text files containing names like q1, q2 etc.
+/home/quadraticformula/Desktop/howtosolve
 
-/home/pythagoras/Desktop/triangle/sin/cos/tan/q3.txt
-
+Decode the text found in the q3 file in the directory.
 
 ANSWER: <Type answer here>
 
