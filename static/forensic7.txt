@@ -1,7 +1,8 @@
-Decrypt the message in the text file found here:
-/home/pythagoras/Desktop/triangle/q7.txt
+All question files are found in the following folder, with text files containing names like q1, q2 etc.
+/home/quadraticformula/Desktop/howtosolve
 
-Hint: There are other ways to encrypt text other than base 64
+Decrypt the text found in the q7 file.
+
 
 ANSWER: <Type answer here>
 
