@@ -1,6 +1,8 @@
-Encode the text of the file found in the location below in base64, and provide the encoded text.
+All question files are found in the following folder, with text files containing names like q1, q2 etc.
+/home/quadraticformula/Desktop/howtosolve
 
-/home/pythagoras/Desktop/triangle/sin/cos/tan/sec/cosec/q5.txt
+
+Encode the text (base64) found in the q5 file in the above directory.
 
 ANSWER: <Type answer here>
 
