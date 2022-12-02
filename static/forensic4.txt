@@ -1,6 +1,9 @@
-Decode the text found in the following folder:
+All question files are found in the following folder, with text files containing names like q1, q2 etc.
+/home/quadraticformula/Desktop/howtosolve
 
-/home/pythagoras/Desktop/triangle/sin/cos/tan/sec/q4.txt
+
+Decode the text found in q4 file in the directory above.
+Just because you don't see it doesn't mean it's not there.
 
 ANSWER: <Type answer here>
 
