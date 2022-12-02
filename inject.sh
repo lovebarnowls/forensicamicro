@@ -4,7 +4,7 @@ sudo useradd quadraticformula
 
 sudo mkdir -p /home/quadraticformula/Desktop/howtosolve
 
-#Q1 MD5hash
+#Q1 Sha1
 sudo echo 'xequals' > /home/quadraticformula/Desktop/howtosolve/q1
 
 #Q2 Sha256
